@@ -1,0 +1,2 @@
+tf2:
+	freak fortress 2: main content + dlcs, amplifier + repair node (textures), custom bosses (none yet)
