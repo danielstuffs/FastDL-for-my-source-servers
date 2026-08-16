@@ -1,8 +1,8 @@
 "VertexLitGeneric"
 {
 	"$basetexture"	"models/piscke2/sniper/sniper_blue_invun"
-	<dx90
-              {"$detail" "effects/tiledfire/fireLayeredSlowTiled512.vtf"	
+
+	"$detail" "effects/tiledfire/fireLayeredSlowTiled512.vtf"	
 	"$detailscale" "5"
 	"$detailblendfactor" .01
 	"$detailblendmode" 6
