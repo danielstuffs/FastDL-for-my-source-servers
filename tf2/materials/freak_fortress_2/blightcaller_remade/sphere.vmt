@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "freak_fortress_2/blightcaller_remade/phasewalk"
+	"$vertexalpha" 1
+	"Proxies" 
+	{ 
+		"AnimatedTexture" 
+		{
+			"animatedTextureVar" "$basetexture" 
+			"animatedTextureFrameNumVar" "$frame" 
+			"animatedTextureFrameRate" "10"
+		 } 
+	} 
+}
