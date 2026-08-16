@@ -1,3 +1,3 @@
 tf2:
-	freak fortress 2: main content + dlcs, amplifier + repair node (textures), goomba stomp plugin, custom bosses (painis cupcake)
+	freak fortress 2: main content + dlcs, amplifier + repair node (textures), goomba stomp plugin, custom bosses (painis cupcake, piss cakehole, merasmus)
 	say sounds plugin: all sounds
